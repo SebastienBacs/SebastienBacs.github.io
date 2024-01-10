@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.46aba061.css",
+    "main.js": "/static/js/main.e6630ead.js",
+    "static/media/LookDown.mp3": "/static/media/LookDown.8a95c6da367332549196.mp3",
+    "static/media/Summer.mp3": "/static/media/Summer.455402882d8de329872f.mp3",
+    "static/media/Universe.mp3": "/static/media/Universe.e8477e02c1f4269154f0.mp3",
+    "static/media/Cupid.mp3": "/static/media/Cupid.595536d532992938a6ab.mp3",
+    "static/media/Ratatouille.mp3": "/static/media/Ratatouille.32b199ce8c53559fdb8d.mp3",
+    "static/media/me.png": "/static/media/me.bcccdcdde3e2753f4eb7.png",
+    "static/media/background.jpg": "/static/media/background.95f3ba95307d8727f0a4.jpg",
+    "static/media/erasmuslogo.jpg": "/static/media/erasmuslogo.472f19af4936ee46ea25.jpg",
+    "static/media/myCV.pdf": "/static/media/myCV.778bdca482dd326f4d62.pdf",
+    "static/media/figma.png": "/static/media/figma.95e8dc1de570ab06efaa.png",
+    "static/media/maven.png": "/static/media/maven.d3b693963f5411ebef49.png",
+    "static/media/capgemini.jpg": "/static/media/capgemini.ae355d614dfaac1a33d8.jpg",
+    "static/media/laravel.png": "/static/media/laravel.1d506f7409ebb6dfa167.png",
+    "static/media/efficy.png": "/static/media/efficy.5e071fa2a4536ac92624.png",
+    "static/media/monizze.png": "/static/media/monizze.988bc69c2a5700a6a8e3.png",
+    "static/media/adonisjs.png": "/static/media/adonisjs.683efd20ac998c20c786.png",
+    "static/media/mysql.png": "/static/media/mysql.17ec01314179e9a8ab58.png",
+    "static/media/clickDown.mp3": "/static/media/clickDown.d179b056f90c3a77da37.mp3",
+    "static/media/clickUp.mp3": "/static/media/clickUp.d4599d8457c9bc83d5a5.mp3",
+    "index.html": "/index.html",
+    "main.46aba061.css.map": "/static/css/main.46aba061.css.map",
+    "main.e6630ead.js.map": "/static/js/main.e6630ead.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46aba061.css",
+    "static/js/main.e6630ead.js"
+  ]
+}
